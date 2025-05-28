@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anuk Dias / Anuk Dias"
+title                    : "Anuk Dias"
 title_separator          : "-"
 name                     : &name "Anuk Dias"
 description              : &description "personal description"
